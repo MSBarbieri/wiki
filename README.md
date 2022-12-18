@@ -1,4 +1,4 @@
-# Wiki
+# [[VIMWiki]]
 
 My pesonal wiki for all the tech stuff i want to remember!
 
